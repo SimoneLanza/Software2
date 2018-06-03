@@ -1,0 +1,4 @@
+El archivo bd_ferreteria3_Xamp, fue creado con xamp, para importarlo crear una bd llamada bd_ferreteria3 e importar el archivo.
+El archivo bd_ferreteria_navicat fue creado con la herramienta navicat premium 11, crear la base de datos bd_ferreteria e importarlo.
+
+Saludos cordiales

@@ -1,0 +1,6 @@
+- Corrigiendo errores en algunos formularios.
+Formulario Clientes: Error corregido en los filtros por campos
+
+- Continuar con las consultas de facturas
+- Continuar con las notas de credito
+- Probar el funcionamiento de cada usuario
